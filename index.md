@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## CMU Spring 2022 Scheduling
 
-You can use the [editor on GitHub](https://github.com/cindy2000sh/21393F21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Notes
+- Each item is a full day schedule for the first/second half of the semester, because we have half semester mini courses.
+- Only undergraduate courses are considered. 
+- Courses are assigned as late as possible. (My team members and I stay up late >_<) 
+- Each classroom are maximally utilized in a greedy sense. (i.e. if there are 100 seats in a classroom, it's unreasonable if only 10 seats are used.)
+- Visit repo to see some code. But many raw inputs are unreleased in repo because of privacy issues. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cindy2000sh/21393F21/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Visualization
+Remember to toggle your mouse on different time slots to see more information!
+- [figure_Monday_first]()
+- [figure_Monday_second]()
+- [figure_Tuesday_first]()
+- [figure_Tuesday_second]()
+- [figure_Wednesday_first]()
+- [figure_Wednesday_second]()
+- [figure_Thursday_first]()
+- [figure_Thursday_second]()
+- [figure_Friday_first]()
+- [figure_Friday_second]()
